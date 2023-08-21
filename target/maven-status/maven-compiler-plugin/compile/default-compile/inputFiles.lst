@@ -1,0 +1,8 @@
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/model/Account.java
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/controller/Controller.java
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/repository/AccountRepository.java
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/repository/UserRepository.java
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/Main.java
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/model/User.java
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/queue/QueueListener.java
+/Users/dara/konjure-demo/konjure-springboot-example/src/main/java/ai/hocus/examples/sprintboot/stream/TopicListener.java
